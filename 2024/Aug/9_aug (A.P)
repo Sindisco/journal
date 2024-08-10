@@ -1,0 +1,80 @@
+Today i study sequence and series , what in sequence nd series , that day i learn a.p.(arithmatic prograssion).
+
+SO lets explore waht squence and series.
+
+by adding or substrating nth term of a sequence we get series.
+a1 + a2 + a3 .... an is a series.
+a1, a2 , a3 ... is a sequence.
+
+Airthmatic prograssion(A.P)
+
+1.Nth term
+an = a+(n-1)d             #where a is a first term , and d is a common difference (a2-a1) and n is the term , which is in an.
+
+2.Sum of the Nth term
+Sn = n/2(a+(n-1)d)
+
+3.If last term is givien then
+Sn = n/2(a+l)             #where l is last term , so as my thought l = (n-1)d
+
+///////////////////////////////////////////
+////Some short tricks and impornent too////
+///////////////////////////////////////////
+
+1. If pth term of an ap is q and qth term of an ap is p then mth term is
+p+q-m                     #where d = -1 and a = p+q and (p+q)th = 0
+
+2. If pth term of an ap is 1/q and qth term of an ap is 1/p them mth term is
+am = m/pq                 #where a and d = 1/pq
+Sm = m(m+q)/2pq  
+
+3. If ratio of the sum of the nth term is f(n):g(n) then the ratio of their nth term will be
+f(2n-1):g(2n-1)           #we just put n = 2n-1 in (f(n):g(n))
+
+4. If ratio of the Nth term is f(n):g(n) and the ratio of the sum of the term will be:
+f(n+1/2):g(n+1/2)         #We just put n = n+1/2 in .......
+
+/////////////
+///Remarks///
+/////////////
+
+1. The first term and common differnce of an ap can be zero or +tive or -tive (nor complex number).
+2. IF a+b+c in an ap then 2b = a+c  
+if a+b+c+d then  a+d = b+c
+
+3. Selection of terms
+The Third term of an ap is a-d,a,a+d
+The foruth term of an ap is a-3d,a-d,a+d,a+3d
+as same as the fifth term of an ap is a-2d,a-d,a,a+d,a+3d
+the sixth term = a-5d,a-3d,a-d,a,a+d,a+3d+a+5d        #Here you ca see a parrten how its happens. -1d in even and -3d in odd.
+
+///////////////////////////
+///Arithmetic mean (A.M)///           /* We also say that as name of average */
+///////////////////////////
+
+1. a A b is an ap            #Where A is A.M  amd a is first term and b is last term
+2. A.M of a A b = a+b/2
+3. A.M of a1,a2,a3,a4...an = a1+a2+a3+...+an
+
+Intertion of 'n' A.M b/w a and b.
+
+1. iF a  A1,A2,A3,...,An  b  is an ap then
+First term = a
+last term = Tn+2 = b
+a+(n-1)d = b => a + (n+2-1)D = b  =>             #Where n = n+2 because of Tn+2 is lasst term which is given
+D = b-a/n+1        Where D is the Commom differnce.
+
+So, 
+A1 = a+d
+A2 = a+2d
+A3 = a+3d 
+...
+An = a+nd
+
+_______________________________________________________________________________________________________________________________________
+
+My revison is complete also it can be help to improve my typing speed as well as good for mental traning.
+Oyasumi , 
+
+------------------------------------------------------------All done-------------------------------------------------------------------
+
