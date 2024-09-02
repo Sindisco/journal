@@ -25,3 +25,5 @@ Any base to decimal:-   (d₄,d₃,d₂,d₁)r  -->  (d₁r⁰ + d₂r¹ + d₃r
 
 eg:- (34)₅ --> ( )₁₀  
 slo: (4*5⁰ + 3*5¹)₁₀ => (4 + 15)₁₀ => (19)₁₀
+
+Any base with decimal digits to decimals:-  (d₄,d₃,d₂,d₁.f)r  -->  (d₁r⁰ + d₂r¹ + d₃r² + d₄r³)
