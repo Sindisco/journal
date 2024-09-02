@@ -1,0 +1,27 @@
+Today We learn Introductration in number system in computer
+
+Sno.  |  Number system    |     Base/Redix     |  Digits
+
+1     |  Binary           |        2           |   0,1
+2     |  Octal            |        8           |   0,1,2,3,4,5,6,,7
+3     |  Decimal          |        10          |   0 to 9
+4     |  Hexa-Decimal     |        16          |   0 to 9 A,B,C,D,E,F
+
+
+• Formula :-  A number system which base (n) always have digit 0,1,2---(n-1)
+• Note:- base>digt  and  0<=digit<base
+
+Eg:- Possible no of value of x if the Representation (34x)₅ and (12)x both are valid then how mny possible value of x is:
+a. 1   b. 2   c. 3  d. 4
+Ans:b
+sol:- If 1st represtation is valid then x=0,1,2,3,4   less than the base which is 5
+      If 2nd represtation is valid then x=3,4,5,6,... grether than digit which is 2
+
+So the common values of x should be 3 or 4. So there are only two possible of x 3,4.
+
+
+Coversation of number system
+Any base to decimal:-   (d₄,d₃,d₂,d₁)r  -->  (d₁r⁰ + d₂r¹ + d₃r² + d₄r³)        # r is the base here and d₁ , d₂ is your digits
+
+eg:- (34)₅ --> ( )₁₀  
+slo: (4*5⁰ + 3*5¹)₁₀ => (4 + 15)₁₀ => (19)₁₀
