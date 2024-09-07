@@ -21,9 +21,18 @@ So the common values of x should be 3 or 4. So there are only two possible of x 
 
 
 Coversation of number system
-Any base to decimal:-   (d₄,d₃,d₂,d₁)r  -->  (d₁r⁰ + d₂r¹ + d₃r² + d₄r³)        # r is the base here and d₁ , d₂ is your digits
+1. Any base with natural number to decimal:-   (d_n...d₄d₃d₂d₁)_r  -->  (d₁r⁰ + d₂r¹ + d₃r² + d₄r³+...+d_n r^n-1)        # r is the base and d₁ , d₂ ... d_n is digits
+
+
+Note :-  here ^ means "to the power" like ¹,²,³,⁴ and _ means "sub " like ₁,₂,₃,₄ . see: 2^5 or 2⁵ are same as well as 2_5 or 2₅ both are same too    #see: 2₅ and 2_5 refer as "2 sub 5"
+so dont confuse you can write it in that way like d₁ or ₂. (Here i don't have any option to write alphabet in sub formet so i write its in LaTeX-style math rendering .)
+
 
 eg:- (34)₅ --> ( )₁₀  
-slo: (4*5⁰ + 3*5¹)₁₀ => (4 + 15)₁₀ => (19)₁₀
+sol: (4*5⁰ + 3*5¹)₁₀ => (4 + 15)₁₀ => (19)₁₀
 
-Any base with decimal digits to decimals:-  (d₄,d₃,d₂,d₁.f)r  -->  (d₁r⁰ + d₂r¹ + d₃r² + d₄r³)
+2. Float number to decimal:- (... d₄d₃d₂d₁.f₁f₂f₃f₄ ....)r  -->  (d₁r⁰ + d₂r¹ + d₃r² + d₄r³ ...) . (f₁/r¹ + f₂/r² + f₃/r₃ + f₄/r⁴ ...)
+
+eg: (34.21)₅ --> ()₁₀
+sol: (4*5⁰ + 3*5¹).(2/5¹ + 1/5²) => (19).(.44) => (19.44)₁₀
+
